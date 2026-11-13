@@ -4,7 +4,7 @@
 
 A top-down drifting game that runs in your browser. Slide around a huge lot full of cones, tire walls and boulders, chain your drifts for points, turn those points into cash, and spend it on new cars, tuning, paint and map upgrades.
 
-**[Play it here](#)** <!-- replace # with your itch.io or GitHub Pages link -->
+**[Play it here](https://whiffi0375.github.io/Drift-Zone/)** <!-- replace # with your itch.io or GitHub Pages link -->
 
 ## Features
 
